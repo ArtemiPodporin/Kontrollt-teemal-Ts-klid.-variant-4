@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kontrolltöö teemal Tsüklid. variant 4", "Kontrolltöö teemal Tsüklid. variant 4.pyproj", "{78FDAFAD-8825-4490-B29E-C5590D4EE114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FDAFAD-8825-4490-B29E-C5590D4EE114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FDAFAD-8825-4490-B29E-C5590D4EE114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F87248-FFBF-4368-B908-5E417BC85828}
+	EndGlobalSection
+EndGlobal
